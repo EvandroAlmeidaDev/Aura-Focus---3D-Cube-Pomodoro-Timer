@@ -12,6 +12,10 @@ A Pomodoro timer with an interactive 3D cube interface. Built with Electron, Rea
 
 ![Aura Focus demo](assets/demo.gif)
 
+### Download
+
+[Releases](https://github.com/EvandroAlmeidaDev/Aura-Focus---3D-Cube-Pomodoro-Timer/releases) – Download **Aura Focus** for Windows (portable .zip).
+
 ### Features
 
 - **3D Interactive Cube**: Rotate the cube to switch between timer modes
@@ -88,6 +92,10 @@ Timer Pomodoro com interface de cubo 3D interativo. Desenvolvido com Electron, R
 ### Demonstração
 
 ![Demonstração Aura Focus](assets/demo.gif)
+
+### Download
+
+[Releases](https://github.com/EvandroAlmeidaDev/Aura-Focus---3D-Cube-Pomodoro-Timer/releases) – Baixe o **Aura Focus** para Windows (.zip portátil).
 
 ### Funcionalidades
 
